@@ -104,12 +104,6 @@ Spent Rs 150 on coffee, Rs 300 on Uber, and Rs 200 on lunch.
 
 The app then displays the transactions, spending metrics, and category chart. Results may vary because extraction is AI-generated.
 
-## 📸 Screenshots
-
-Add a screenshot of your working dashboard to `assets/dashboard.png`, then replace this sentence with:
-
-`![SpendWise AI Dashboard](assets/dashboard.png)`
-
 ## 🔐 Why Open-Weight, Local AI?
 
 The Gemma model is run locally with Ollama. Expense text is processed by your local model service instead of being sent to a paid cloud model API. Once installed, the model can run without internet access. This offers more control over entered data and avoids per-request model charges.
